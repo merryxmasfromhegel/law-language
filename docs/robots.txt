@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://merryxmasfromhegel.github.io/law-language/sitemap.xml

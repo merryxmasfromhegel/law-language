@@ -1,9 +1,11 @@
 # Basic config
-baseURL = "https://example.com"
+baseurl = "https://merryxmasfromhegel.github.io/law-language/"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
 title = "Legislative Intent & Ordinary Meaning"
 copyright = "© 2024 Shaolong Chen"
+publishDir = "docs"
+
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
